@@ -1,0 +1,19 @@
+.lrContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    height: min-content;
+}
+.left{
+    margin-left: 300px;
+    text-align: justify;
+}
+.right{
+    margin-right: 300px;
+    text-align: justify;
+    
+}
+.right-para{
+    word-spacing: -1px;
+}
